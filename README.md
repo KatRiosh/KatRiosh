@@ -1,4 +1,4 @@
-# Katia Ríos Ordoñez
+# Katia Ríos
 
 ### Desarrolladora de Software | Frontend | UI/UX
 
